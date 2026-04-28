@@ -80,4 +80,4 @@ Academic use only. For any other use, please contact the author.
 
 **Author:** Roman Pantsenko – [GitHub](https://github.com/romanp217)
 [LinkedIn](https://www.linkedin.com/in/roman-pantsenko-95a648294/)
-email - [romanpn17@outlook.com](mailto:romanpn17@outlook.com)
+Email : [romanpn17@outlook.com](mailto:romanpn17@outlook.com)
